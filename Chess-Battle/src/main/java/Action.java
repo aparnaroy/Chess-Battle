@@ -28,7 +28,7 @@ public abstract class Action {
     }
 
     /**
-     * Abstract class that performs the action specified
+     * Abstract method that performs the action specified
      */
     public abstract void performAction();
 }
