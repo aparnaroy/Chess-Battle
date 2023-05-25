@@ -11,7 +11,7 @@ Each Team starts off with 6 pieces (one of each of these):
 * PowerPuff (P)
 * SpanishBuzz (S)
 
-<img src="https://static.wikia.nocookie.net/mugen/images/5/56/Buzz_Lightyear_TS4.png/revision/latest?cb=20210702233122" width="65"/>    <img src="https://www.nicepng.com/png/full/918-9180199_minions-png.png" width="55"/>    <img src="https://i.pinimg.com/originals/db/6d/46/db6d464fcee21800440b5c90ea0fc446.png" width="120"/>     <img src="http://www.sunimprint.com/images/delaware%20blue%20hens%201993-pres%20mascot%20logo%20diy%20iron%20on%20transfer%202.png" width="90"/>    <img src="https://www.pngall.com/wp-content/uploads/12/Powerpuff-Girls-No-Background.png" width="125"/>     <img src="https://static1.personality-database.com/profile_images/8e50c25b61fb45f4a4d0f99159e468a8.png" width="110"/>
+<img src="https://static.wikia.nocookie.net/mugen/images/5/56/Buzz_Lightyear_TS4.png/revision/latest?cb=20210702233122" width="65"/>    <img src="https://www.nicepng.com/png/full/918-9180199_minions-png.png" width="55"/>    <img src="https://i.pinimg.com/originals/db/6d/46/db6d464fcee21800440b5c90ea0fc446.png" width="120"/>     <img src="https://bluehens.com/images/logos/site/site.png" width="90"/>    <img src="https://www.pngall.com/wp-content/uploads/12/Powerpuff-Girls-No-Background.png" width="125"/>     <img src="https://static1.personality-database.com/profile_images/8e50c25b61fb45f4a4d0f99159e468a8.png" width="110"/>
 
 ### There are 5 possible actions/moves that a player can do:
 * **Move (M)** - move the piece on the FROM-square to another (empty) spot (the TO-square) on the board
